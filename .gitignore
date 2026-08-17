@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk dir, etc.)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+# Android Profiling
+*.hprof
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in the root of the project
+.externalNativeBuild
+.cxx/
+
+# Captures folder
+captures/
+
+# macOS
+.DS_Store
+
+# NDK
+ndk/
+
+# Kotlin / Compose compiler
+.kotlin/
